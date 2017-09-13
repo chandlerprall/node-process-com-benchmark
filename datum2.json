@@ -1,0 +1,117 @@
+[
+  {
+    "type": "resource",
+    "duration": 583.3799999989569,
+    "routeName": "patternLibrary",
+    "routeParams": {},
+    "url": "https://www.craftsy.com/account/pattern-library",
+    "appTimestamp": 24317155.610000003,
+    "details": {
+      "resourceUrl": "https://www.craftsy.com/health/version",
+      "initiatorType": "xmlhttprequest",
+      "transferSize": 441,
+      "encodedBodySize": 16,
+      "decodedBodySize": 16
+    },
+    "application": "craftsy",
+    "environment": "web",
+    "clientVersion": "b9243ca",
+    "appInstance": "tgfyd3",
+    "visitorId": "someid",
+    "userId": "person",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "clientTimestamp": 1505276249004
+  },
+  {
+    "type": "resource",
+    "duration": 583.3799999989569,
+    "routeName": "patternLibrary",
+    "routeParams": {},
+    "url": "https://www.craftsy.com/account/pattern-library",
+    "appTimestamp": 24317155.610000003,
+    "details": {
+      "resourceUrl": "https://www.craftsy.com/health/version",
+      "initiatorType": "xmlhttprequest",
+      "transferSize": 441,
+      "encodedBodySize": 16,
+      "decodedBodySize": 16
+    },
+    "application": "craftsy",
+    "environment": "web",
+    "clientVersion": "b9243ca",
+    "appInstance": "tgfyd3",
+    "visitorId": "someid",
+    "userId": "person",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "clientTimestamp": 1505276249004
+  },
+  {
+    "type": "resource",
+    "duration": 583.3799999989569,
+    "routeName": "patternLibrary",
+    "routeParams": {},
+    "url": "https://www.craftsy.com/account/pattern-library",
+    "appTimestamp": 24317155.610000003,
+    "details": {
+      "resourceUrl": "https://www.craftsy.com/health/version",
+      "initiatorType": "xmlhttprequest",
+      "transferSize": 441,
+      "encodedBodySize": 16,
+      "decodedBodySize": 16
+    },
+    "application": "craftsy",
+    "environment": "web",
+    "clientVersion": "b9243ca",
+    "appInstance": "tgfyd3",
+    "visitorId": "someid",
+    "userId": "person",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "clientTimestamp": 1505276249004
+  },
+  {
+    "type": "resource",
+    "duration": 583.3799999989569,
+    "routeName": "patternLibrary",
+    "routeParams": {},
+    "url": "https://www.craftsy.com/account/pattern-library",
+    "appTimestamp": 24317155.610000003,
+    "details": {
+      "resourceUrl": "https://www.craftsy.com/health/version",
+      "initiatorType": "xmlhttprequest",
+      "transferSize": 441,
+      "encodedBodySize": 16,
+      "decodedBodySize": 16
+    },
+    "application": "craftsy",
+    "environment": "web",
+    "clientVersion": "b9243ca",
+    "appInstance": "tgfyd3",
+    "visitorId": "someid",
+    "userId": "person",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "clientTimestamp": 1505276249004
+  },
+  {
+    "type": "resource",
+    "duration": 583.3799999989569,
+    "routeName": "patternLibrary",
+    "routeParams": {},
+    "url": "https://www.craftsy.com/account/pattern-library",
+    "appTimestamp": 24317155.610000003,
+    "details": {
+      "resourceUrl": "https://www.craftsy.com/health/version",
+      "initiatorType": "xmlhttprequest",
+      "transferSize": 441,
+      "encodedBodySize": 16,
+      "decodedBodySize": 16
+    },
+    "application": "craftsy",
+    "environment": "web",
+    "clientVersion": "b9243ca",
+    "appInstance": "tgfyd3",
+    "visitorId": "someid",
+    "userId": "person",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "clientTimestamp": 1505276249004
+  }
+]
